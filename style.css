@@ -1,0 +1,16 @@
+body{
+    background-image: url(./bot.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.header{
+margin-top: 40px;
+
+}
+#input{
+    border-radius: 7px;
+  
+    
+
+}
